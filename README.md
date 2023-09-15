@@ -255,4 +255,4 @@ Bila id dimiliki oleh salah satu buku, maka buku tersebut harus dihapus dan serv
 * Format Eslint AirBnb
 * Pengujian melalui postman
 * Framework HAPI
-* Query paramatere pada route GET /books (?name, ?reading, ?finished)
+* Query paramater pada route GET /books (?name, ?reading, ?finished)
